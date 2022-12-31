@@ -1,5 +1,5 @@
-<pre>
 # LIBRARY-MANAGEMENT-SYSTEM
+<pre>
 Prototype of online library management system
 Library is a collection of sources of information and similar resources, made accessible to a defined community for reference or borrowing. Thus, the process of handling a library manually is very troublesome and clumsy. As regards to this point of view, we plan to develop a computerized system for handling the activities of library management in a comprehensive way to lessen physical labour and reduce complexity of the manual system.
 
